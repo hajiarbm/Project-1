@@ -1,6 +1,6 @@
 # Project-1
 
-Table of Contents
+**Table of Contents**
 
     Installation
     Project Motivation
@@ -8,12 +8,12 @@ Table of Contents
     Results
     Licensing, Authors, and Acknowledgements
 
-Installation
+**Installation**
 
 Nothing more than Anaconda is neede. The code is written in Python3.
 
 
-Project Motivation
+**Project Motivation**
 
 For this project, I was interestested in using Seattle Airbnb to answer these questions:
 
@@ -23,13 +23,16 @@ For this project, I was interestested in using Seattle Airbnb to answer these qu
     What is the information of the house with most reviews?
 
 
-File Descriptions
+**File Descriptions**
 
 There is  1 notebook with the code related to answer the above questions. The code is commented. 
 
-Results
+
+**Results**
 
 The main findings of the code can be found at the post available here   https://medium.com/p/bfd5f531b2e8/edit.
 
-Licensing, Authors, Acknowledgements
+
+**Licensing, Authors, Acknowledgements**
+
 The data was downloaded from https://www.kaggle.com/datasets/airbnb/seattle/data
