@@ -30,7 +30,7 @@ There is  1 notebook with the code related to answer the above questions. The co
 
 **Results**
 
-The main findings of the code can be found at the post available here   https://medium.com/p/bfd5f531b2e8/edit.
+The main findings of the code can be found at the post available [here] (https://medium.com/p/bfd5f531b2e8/edit.)
 
 
 **Licensing, Authors, Acknowledgements**
