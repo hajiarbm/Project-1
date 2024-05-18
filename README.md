@@ -10,7 +10,7 @@
 
 **Installation**
 
-Nothing more than Anaconda is neede. The code is written in Python3.
+Nothing more than Anaconda is neede. The code is written in Python3. 
 
 
 **Project Motivation**
